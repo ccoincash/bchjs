@@ -3,8 +3,6 @@ bchjs
 
 A Open Source Browser Based Bitcoin Cash Wallet. It forked from https://github.com/OutCast3k/coinbin/.
 
-Live version available at https://ccoin.cash/
-
 Github URL: https://github.com/ccoincash/bchjs.git/
 
 It supports a number of key features such as: 
